@@ -1,0 +1,46 @@
+body{
+    background-repeat: no-repeat;
+    background-size: 2000px;
+    padding: 1;
+    margin: 1;
+}
+
+.header-container {
+    color: white;
+    font-size: 50px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.main-container{
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.main-course{
+    font-style: none;
+    color: white;
+}
+
+.a-main{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: bisque;
+    font-size: 35px;
+    border-radius: 30px;
+    border: none;
+    transition: ease-in-out;
+    font-style: initial;
+    font-family: times new roman Bold;
+}
